@@ -24,7 +24,7 @@ This project implements an innovative security system for personal devices, acti
    - Downloads required YOLO model files
    - Prepares the security environment
 
-2. `Personal Device Security Guard.py`: Core security application that:
+2. `Personal_Device_Security_Guard.py`: Core security application that:
    - Activates your device's camera
    - Processes the video feed in real-time
    - Detects and analyzes changes in the monitored area
