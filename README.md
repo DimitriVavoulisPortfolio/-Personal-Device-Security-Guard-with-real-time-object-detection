@@ -54,4 +54,4 @@ This project implements an innovative security system for personal devices, acti
 - Custom object recognition for personalized security (e.g., recognizing specific individuals)
 - Integration with smart home security systems
 
-This project demonstrates expertise in computer vision, real-time data processing, and creating practical security solutions. It showcases the ability to develop sophisticated, user-centric security applications for personal devices, making it a valuable addition to a professional portfolio in AI, software development, and cybersecurity.
+This project demonstrates expertise in computer vision, real-time data processing, and creating practical security solutions. It showcases the ability to develop sophisticated, user-centric security applications for personal devices.
