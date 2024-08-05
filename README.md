@@ -39,7 +39,7 @@ This project implements an innovative security system for personal devices, acti
 
 ## Setup and Deployment
 1. Execute `setup.py` to configure the security environment.
-2. Run `object_detection_app.py` to activate the security system.
+2. Run `Personal_Device_Security_Guard.py` to activate the security system.
 3. Select your preferred model: YOLOv3 (higher security, more resource-intensive) or YOLOv3-tiny (faster, ideal for less powerful devices).
 4. The system will begin monitoring, saving snapshots of any detected changes.
 5. To deactivate, press 'q' in the application window.
