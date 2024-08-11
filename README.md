@@ -6,13 +6,6 @@ Dimitri Vavoulis
 ## Overview
 This project implements an innovative security system for personal devices, acting as a virtual guard dog when you're away from your computer or smartphone. Utilizing advanced computer vision techniques, it transforms your device's camera into a vigilant security monitor, alerting you to any unexpected activity in its vicinity.
 
-<p float="left">
-  <img src="/path/to/image1.png" width="24%" />
-  <img src="/path/to/image2.png" width="24%" /> 
-  <img src="/path/to/image3.png" width="24%" />
-  <img src="/path/to/image4.png" width="24%" />
-</p>
-
 ## Key Security Features
 - Continuous Monitoring: Keeps watch over your device's surroundings when you're away.
 - Intelligent Change Detection: Automatically identifies new objects or people entering the monitored area.
